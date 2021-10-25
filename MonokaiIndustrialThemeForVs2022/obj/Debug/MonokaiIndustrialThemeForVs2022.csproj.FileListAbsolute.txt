@@ -1,0 +1,13 @@
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\bin\Debug\m.png
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\bin\Debug\monokaiindustrial.pkgdef
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\bin\Debug\MonokaiIndustrialThemeForVs2022.vsix
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\bin\Debug\extension.vsixmanifest
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\MonokaiIndustrialThemeForVs2022.csproj.AssemblyReference.cache
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\_EmptyResource.resources
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\MonokaiIndustrialThemeForVs2022.csproj.GenerateResource.cache
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\MonokaiIndustrialThemeForVs2022.csproj.CoreCompileInputs.cache
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\MonokaiIndustrialThemeForVs2022.dll
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\MonokaiIndustrialThemeForVs2022.pdb
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\extension.vsixmanifest
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\files.json
+C:\Users\toaurs-he\source\repos\MonokaiIndustrialThemeForVs2022\MonokaiIndustrialThemeForVs2022\obj\Debug\createTemplateManifests.cache

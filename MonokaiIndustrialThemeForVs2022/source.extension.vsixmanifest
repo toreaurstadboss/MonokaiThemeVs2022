@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="MonokaiIndustrialThemeForVs2022.6cf0a907-fb47-4685-82e6-c8265a3de6e2" Version="1.0" Language="en-US" Publisher="Tore Aurstad" />
+        <DisplayName>MonokaiIndustrialThemeForVs2022</DisplayName>
+        <Description xml:space="preserve">Monokai Industrial Theme ported from VS  Code to VS 2022. 
+
+This theme is a ported theme which is not available for VS 2022. It should not be used when Monokai Pro is ported for Visual Studio, then obtain the professional version. 
+Price for Monokai Pro for VS Code is 9.95 Euro.
+
+https://monokai.pro/vscode 
+
+Please do not use this software when Monokai Pro is shipped to Visual Studio, for now, this is a preview of how beautiful Monokai Industrial (Monokai Pro) is on VS 2022 ! 
+
+
+https://monokai.pro/terms
+
+</Description>
+        <Icon>m.png</Icon>
+        <PreviewImage>m.png</PreviewImage>
+        <Tags>monokai  theme vs2022</Tags>
+        <Preview>true</Preview>
+    </Metadata>
+    <Installation AllUsers="true">
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="monokaiindustrial.pkgdef" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>
