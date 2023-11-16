@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YSPjW4ZWGiHbnx9UDuoZH4m9BRGtDyT1S0r20bSZGXPnYJiTKOyzdyVk4R/8CPhNrbc0vur8wRcQj9QJX4Bc0Q==",
+  "dgSpecHash": "GNSqshzmugwAjwyPXvVEM27g7JxXik/eZV93PxvKlozEt2mYDSBKeY5kgB1Tt2W+NrTpXqQgdYWSKIvJtG4WGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\toaurs-he\\source\\repos\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj",
+  "projectFilePath": "C:\\src\\MonokaiThemeVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\toaurs-he\\.nuget\\packages\\envdte\\17.0.0-previews-1-31410-258\\envdte.17.0.0-previews-1-31410-258.nupkg.sha512",
     "C:\\Users\\toaurs-he\\.nuget\\packages\\envdte100\\17.0.0-previews-1-31410-258\\envdte100.17.0.0-previews-1-31410-258.nupkg.sha512",

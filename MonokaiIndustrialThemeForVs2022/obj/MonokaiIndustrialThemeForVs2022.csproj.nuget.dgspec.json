@@ -1,36 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toaurs-he\\source\\repos\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj": {}
+    "C:\\src\\MonokaiThemeVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toaurs-he\\source\\repos\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj": {
+    "C:\\src\\MonokaiThemeVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toaurs-he\\source\\repos\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj",
+        "projectUniqueName": "C:\\src\\MonokaiThemeVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj",
         "projectName": "MonokaiIndustrialThemeForVs2022",
-        "projectPath": "C:\\Users\\toaurs-he\\source\\repos\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj",
+        "projectPath": "C:\\src\\MonokaiThemeVs2022\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022.csproj",
         "packagesPath": "C:\\Users\\toaurs-he\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toaurs-he\\source\\repos\\MonokaiIndustrialThemeForVs2022\\MonokaiIndustrialThemeForVs2022\\obj\\",
+        "outputPath": "C:\\src\\MonokaiThemeVs2022\\MonokaiIndustrialThemeForVs2022\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\toaurs-he\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://hemit.myget.org/F/opplan/auth/e3f9b8bd-7cd5-4abf-ad6f-c3aa74b11488/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net472": {
@@ -55,6 +52,9 @@
       },
       "runtimes": {
         "win": {
+          "#import": []
+        },
+        "win-arm64": {
           "#import": []
         },
         "win-x64": {
